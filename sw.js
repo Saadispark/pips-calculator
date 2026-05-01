@@ -1,4 +1,4 @@
-const CACHE = 'pipscalc-v1';
+const CACHE = 'pipscalc-v2';
 const FILES = [
   './',
   './index.html',
